@@ -1,3 +1,8 @@
+/*
+Akash Roshan Chaurasia
+akashroshanchaurasia@gmail.com
+Github link-https://github.com/akashrc/aidapp-internship-code
+*/
 #include<stdio.h>
 #include<malloc.h>
 
