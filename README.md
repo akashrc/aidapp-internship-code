@@ -1,0 +1,1 @@
+# aidapp-internship-code
